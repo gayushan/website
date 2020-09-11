@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>WEBSITE</title>
+</head>
+<body bgcolor="#11638B">
+<center><b style="font:25px; color:#b35900;background-color:gray;">PERSONAL INFORMATION</b></center>
+</body>
+</html>
